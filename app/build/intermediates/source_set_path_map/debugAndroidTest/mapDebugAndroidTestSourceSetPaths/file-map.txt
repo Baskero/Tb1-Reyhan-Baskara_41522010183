@@ -1,0 +1,6 @@
+com.example.tb1mobileprogramming.test.app-core-1.5.0-0 C:\Users\Lenovo\.gradle\caches\transforms-3\51ed653df3cbde9a5a5069d6c8eca3e4\transformed\core-1.5.0\res
+com.example.tb1mobileprogramming.test.app-annotation-experimental-1.3.0-1 C:\Users\Lenovo\.gradle\caches\transforms-3\fb3a0ee8a6f722e47648d199adf90677\transformed\annotation-experimental-1.3.0\res
+com.example.tb1mobileprogramming.test.app-androidTest-2 C:\Users\Lenovo\Downloads\TB1MobileProgramming\TB1MobileProgramming\app\build\generated\res\resValues\androidTest\debug
+com.example.tb1mobileprogramming.test.app-mergeDebugAndroidTestResources-3 C:\Users\Lenovo\Downloads\TB1MobileProgramming\TB1MobileProgramming\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.tb1mobileprogramming.test.app-mergeDebugAndroidTestResources-4 C:\Users\Lenovo\Downloads\TB1MobileProgramming\TB1MobileProgramming\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.tb1mobileprogramming.test.app-debugAndroidTest-5 C:\Users\Lenovo\Downloads\TB1MobileProgramming\TB1MobileProgramming\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

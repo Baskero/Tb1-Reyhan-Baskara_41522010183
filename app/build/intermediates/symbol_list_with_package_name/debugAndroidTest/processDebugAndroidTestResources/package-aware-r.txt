@@ -1,0 +1,3 @@
+com.example.tb1mobileprogramming.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

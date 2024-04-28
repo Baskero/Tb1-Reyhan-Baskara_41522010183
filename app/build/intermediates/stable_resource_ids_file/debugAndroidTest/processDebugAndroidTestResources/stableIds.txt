@@ -1,0 +1,2 @@
+com.example.tb1mobileprogramming.test:style/WhiteBackgroundTheme = 0x7f010001
+com.example.tb1mobileprogramming.test:style/WhiteBackgroundDialogTheme = 0x7f010000

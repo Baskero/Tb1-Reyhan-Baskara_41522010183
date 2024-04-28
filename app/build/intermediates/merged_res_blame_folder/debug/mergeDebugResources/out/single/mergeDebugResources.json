@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_info_redeem_extra_vaganza.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/info_redeem_extra_vaganza.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/font_poppinsbold.ttf.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/font/poppinsbold.ttf"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_pass.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/pass.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_register1.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/register1.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector11.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector11.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_frame3.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/frame3.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_aqua2.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/aqua2.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_scan_camera.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/scan_camera.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_pass2.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/pass2.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector4.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector4.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvector6.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvector6.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_bookmark.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/bookmark.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_setting.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/setting.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_gofood.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/gofood.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/font_poppinsmedium.ttf.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/font/poppinsmedium.ttf"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_register.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/font_poppinsextra.ttf.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/font/poppinsextra.ttf"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_extra_vaganza.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_extra_vaganza.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector5.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector5.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_landing.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_landing.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_tambah_background.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/tambah_background.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_logout.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/logout.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_elips.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/elips.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_tombol.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/tombol.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvector8.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvector8.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_frame2.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/frame2.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_tambah.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/tambah.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_menu_item_bg.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/menu_item_bg.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector_hijau.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector_hijau.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_traveloka_70.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/traveloka_70.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_atas.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/atas.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_garis_bawah.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/garis_bawah.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector_beranda1.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector_beranda1.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_info_redeem_royal_vaganza.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/info_redeem_royal_vaganza.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_radius100.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/radius100.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_gift.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/gift.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vektor_footer_kiri.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vektor_footer_kiri.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_travelokaa.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/travelokaa.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_foto_beranda.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/foto_beranda.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_voucher.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/voucher.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector6.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector6.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvector3.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvector3.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector_putih.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector_putih.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector3.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector3.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_panah_kiri.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/panah_kiri.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_pengaturan.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/pengaturan.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_congratulation_extra_vaganza.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_congratulation_extra_vaganza.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_congratulation_tutup_botol.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_congratulation_tutup_botol.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_gunung_berandaa.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/gunung_berandaa.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector7.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector7.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_conten_footer.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/conten_footer.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_profil.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/profil.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_frame_dua.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/frame_dua.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_hamburger.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/hamburger.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vektor_footer_kanan.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vektor_footer_kanan.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_home.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/menu_menu.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_button_register.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/button_register.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_background2.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/background2.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_i.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/i.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_button.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/button.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_background_landing_gunung.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/background_landing_gunung.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vektor_bakground.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vektor_bakground.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/font_poppinssemibold.ttf.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/font/poppinssemibold.ttf"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_scan_tutup_botol.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_scan_tutup_botol.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_shopee.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/shopee.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvektor11.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvektor11.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector8.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector8.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_emaill.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/emaill.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_aquaa.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/aquaa.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector1.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector1.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_kado.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/kado.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_reedem_vaganza.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_reedem_vaganza.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_food.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/food.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_nav_beranda.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/nav_beranda.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvector2.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvector2.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_footer_beranda.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/footer_beranda.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_scan_ktp.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_scan_ktp.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_aqua.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/aqua.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_botol.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/botol.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_user.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/user.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_scan_ktp.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/scan_ktp.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_card.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/card.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_jempol_kiri.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/jempol_kiri.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_food_gift.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/food_gift.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvector4.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvector4.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvektor9.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvektor9.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_gunung_beranda.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/gunung_beranda.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvektor10.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvektor10.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_background.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/background.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector2.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector2.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_background_layout_gradient.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/background_layout_gradient.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_redeem_roll.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/redeem_roll.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_shoope_pay_100.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/shoope_pay_100.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_gunung.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/gunung.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_bacckground.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/bacckground.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_authentication.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_authentication.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_raisa.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/raisa.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvector1.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvector1.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_frame1.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/frame1.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_landingvector7.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/landingvector7.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_jempol_kanan.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/jempol_kanan.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_discount.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/discount.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_panah.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/panah.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/font_poppinsregular.ttf.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/font/poppinsregular.ttf"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_min.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/min.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_divider_layout.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/divider_layout.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_button_login.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/button_login.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/layout_activity_reedem_vaganza_poin.xml.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/layout/activity_reedem_vaganza_poin.xml"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_notif.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/notif.png"
+    },
+    {
+        "merged": "com.example.tb1mobileprogramming.app-debug-31:/drawable_vector_beranda2.png.flat",
+        "source": "com.example.tb1mobileprogramming.app-main-33:/drawable/vector_beranda2.png"
+    }
+]
